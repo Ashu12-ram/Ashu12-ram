@@ -19,6 +19,7 @@ A Full Stack Developer providing End -to End services in web and Desktop applica
 Inquisitive to learn new things in Tech and explore.
 
 
+**Skills**- Strong proficiency in JavaScript core principles and advanced .Experience with popular JS Frameworks **Angular** and **React**. Extensive Knowledge on Java **Spring Boot** framework  with good Knowledge in **SQL** and **DBs**.
 
 🙋‍♂️ **Reach me** : 
 
